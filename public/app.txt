@@ -1,0 +1,66 @@
+
+------------------------------------------------------------------------
+Things i learnt
+------------------------------------------------------------------------
+Google search term
+https://www.youtube.com/results?search_query=deploying+a+MERN++stack+project+app+
+https://www.youtube.com/results?search_query=deploying+a+MERN++stack+project+app+&sp=EgYIBRABGAI%253D
+
+Bookmark for later
+
+How to setup and deploy fullstack(MERN) application on Vercel and Render (with Github. Cules Coding)
+https://www.youtube.com/watch?v=ME3tMy5Q2qo
+https://github.com/thatanjan/mern-setup
+https://cules-coding.vercel.app/blog/how-to-setup-and-deploy-a-fullStack(mern)-application-on-vercel-and-render
+
+Host MERN Stack for FREE - Render + Domain Name Setup (Raddy)
+https://www.youtube.com/watch?v=SL2WWDT6BSQ
+https://github.com/RaddyTheBrand/30.MERN-Starter
+
+How to Deploy a ReactJS and NodeJS app with Vercel! (No Github but clear? Angeltheesoto)
+https://www.youtube.com/watch?v=CNJkX9rYI8U
+
+How to Deploy a FullStack NodeJs and Express App on Vercel
+https://vinyldavyl.medium.com/how-to-deploy-a-fullstack-nodejs-and-express-app-on-vercel-c79d433eeb6
+
+
+
+------------------------------------------------------------------------
+Previous Projects
+
+Building a Node.js app (as a JavaScript noob) 
+https://www.youtube.com/watch?v=wYALykLb5oY
+https://github.com/thecodercoder/dinosaur-generator
+
+How to Create a Express/Node + React Project | Node Backend + React Frontend 
+https://www.youtube.com/watch?v=w3vs4a03y3I
+
+Build a REST API with Node JS and Express | CRUD API Tutorial
+https://www.youtube.com/watch?v=l8WPWK9mS5M
+https://github.com/adrianhajdin/node_express_crud_api
+
+Serve a HTML Website or Single Page Application with Node and Express
+https://www.youtube.com/watch?v=fyc-4YmgLu0
+
+Build a Weather APP in Node JS 
+https://www.youtube.com/watch?v=C1m-pZGwwD4 
+https://github.com/deeppatel23/Weather-app
+
+How to Connect Node.js App to MongoDB
+https://www.youtube.com/watch?v=bhiEJW5poHU 
+
+Build Restful CRUD API with Node.js, Express and MongoDB in 45 minutes for Beginners from Scratch
+https://www.youtube.com/watch?v=9OfL9H6AmhQ (with MongoDB) 46mins
+
+MERN Stack Tutorial - Book Store Project 1.01mins 
+https://www.youtube.com/watch?v=-42K44A1oMA
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------

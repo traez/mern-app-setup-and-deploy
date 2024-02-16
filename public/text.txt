@@ -1,0 +1,21 @@
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+
+// https://vitejs.dev/config/
+export default defineConfig({
+  plugins: [react()],
+  server: {
+    proxy: {
+      "/addTodo": "http://localhost:8000",
+      "/deleteTodo": "http://localhost:8000",
+      "/getAllTodos": "http://localhost:8000",
+    },
+  },
+});
+
+
+when my backend and frontend  are seperated, above vite.config.js is doing its work .
+but once i   integrate my frontend with my backend, serving the static build from the backend i start to get this response:
+
+Uncaught (in promise) SyntaxError: Unexpected token '<', "<!doctype "... is not valid JSON
+
